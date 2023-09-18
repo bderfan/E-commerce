@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+section{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.heading6{
+    font-size: 0.75rem;
+    color: blue;
+    text-transform: uppercase;
+}
+.heading2{
+    color: black;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+}
+.heading{
+    color: white;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+}
+
+.content{
+    margin: 0 10px 5px 10px;
+}
+
+.top-text{
+    font-size: 2.75rem;   
+}
+.sub-text{
+    margin-top: 20px;
+    font-size: 1.75rem;
+}
+.section-padding{
+     padding-top: 115px;
+     padding-bottom: 30px;
+}
+
+.bg-transparent{
+    background-color: transparent;
+}
+
+/********************************** Logo and menu part css ***************************************/
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: black;
+    background-color: white;
+}
+
+/********************************** Banner part css ***************************************/
+
+
+.bannerbtn{
+     background-color: #0080ff;
+    border-radius: 20px;
+    padding: 10px 25px;
+    font-size: .75rem;
+    color: white;
+    text-transform: uppercase;
+    border-style: none;
+    margin-top: 10px;
+}
+#Banner img{
+    float: right;
+}
